@@ -1,6 +1,6 @@
 # AI Spam/Phishing Detector
 
-A neural network-powered app that detects spam and phishing messages in emails and SMS using TensorFlow and Streamlit. This project uses an LSTM model trained on SMS spam and email phishing datasets to classify messages. It also extracts simple text features like suspicious words and URLs to help explain predictions.
+A neural network-powered web app that detects spam and phishing messages in emails and SMS using TensorFlow and Streamlit. This project uses an LSTM model trained on SMS spam and email phishing datasets to classify messages. It also extracts simple text features like suspicious words and URLs to help explain predictions.
 
 ---
 
